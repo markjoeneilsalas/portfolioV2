@@ -26,12 +26,6 @@ ul li:hover {
   color: red;
 }
 
-.hero {
-  background-repeat: none;
-  background-size: cover;
-  width: 100% 100%;
-}
-
 /* CSS */
 .button-50 {
   appearance: button;
